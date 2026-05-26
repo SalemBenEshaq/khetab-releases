@@ -33,8 +33,8 @@ fluency, tone, and pacing.
 
 ## Developers
 
-Salem Ben Eshaq
-Adnan Qadi 
-Ayoub Aljurayyad
+Salem Ben Eshaq,
+Adnan Qadi,
+Ayoub Aljurayyad.
 King Abdulaziz University - CPCS499 Senior Project  
 2026
